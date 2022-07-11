@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "dist",
+    "target": "es2018"
+  },
+  "compileOnSave": true,
+  "include": ["src"]
+}
